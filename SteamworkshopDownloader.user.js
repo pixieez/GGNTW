@@ -9,7 +9,7 @@
 // @include     *steamcommunity.com/workshop/filedetails/?id=*
 // @grant       GM_xmlhttpRequest
 // @icon        https://raw.githubusercontent.com/pixieez/GGNTW/main/icon.png
-// @description Downloads Steam Workshop items that really works, replacing the deprecated or free space left from steamworkshop.download
+// @description GGWP
 // @downloadURL https://github.com/pixieez/GGNTW/raw/main/SteamworkshopDownloader.user.js
 // @updateURL https://github.com/pixieez/GGNTW/raw/main/SteamworkshopDownloader.user.js
 // @license     GPL-3.0
