@@ -10,6 +10,8 @@
 // @grant       GM_xmlhttpRequest
 // @icon        https://i1.wp.com/orshid.id/wp-content/uploads/2018/03/cropped-favicon-free-img.png?ssl=1
 // @description Downloads Steam Workshop items that really works, replacing the deprecated or free space left from steamworkshop.download
+// @downloadURL https://github.com/pixieez/GGNTW/raw/main/SteamworkshopDownloader.user.js
+// @updateURL https://github.com/pixieez/GGNTW/raw/main/SteamworkshopDownloader.user.js
 // @license     GPL-3.0
 // ==/UserScript==
  
