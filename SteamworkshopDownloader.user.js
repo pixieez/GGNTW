@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Steamworkshop downloader
+// @name        SteamworkshopDownloader
 // @namespace   .js Scripts
 // @match        *://steamcommunity.com/workshop/filedetails/?id=*
 // @match        *://steamcommunity.com/sharedfiles/filedetails/?id=*
@@ -81,7 +81,7 @@ function addWorkshopBtn(id) {
     var button = document.createElement('span');
     button.setAttribute('class', 'general_btn share tooltip');
  
-    button.innerHTML = '<span id="SUBS_TO_ITEM"><span>Download this ⬇️</span></span>';
+    button.innerHTML = '<span id="SUBS_TO_ITEM"><span>ดาวน์โหลด🔥</span></span>';
     button.onclick = function() {
         // Create a loading popup
         var loadingPopup = document.createElement('div');
