@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name        Steamworkshop downloader
-// @namespace   Violentmonkey Scripts
+// @namespace   .js Scripts
 // @match        *://steamcommunity.com/workshop/filedetails/?id=*
 // @match        *://steamcommunity.com/sharedfiles/filedetails/?id=*
-// @version     1.1
-// @author      https://github.com/InsightiousCoven
+// @version     1.0
+// @author      https://github.com/pixieez
 // @include     *steamcommunity.com/sharedfiles/filedetails/?id=*
 // @include     *steamcommunity.com/workshop/filedetails/?id=*
 // @grant       GM_xmlhttpRequest
